@@ -1,6 +1,6 @@
-# FinServe AI Pipeline — Output Validator
+# FinServe AI Pipeline - Output Validator
 
-A Python-based validation tool for the FinServe Lead-to-Credit-Memo AI pipeline. Built as part of the **10Clouds Financial Institutions — AI Intern/Specialist** recruitment task.
+A Python-based validation tool for the FinServe Lead-to-Credit-Memo AI pipeline. Built as part of the **10Clouds Financial Institutions - AI Intern/Specialist** recruitment task.
 
 ## Overview
 
